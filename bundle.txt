@@ -9,9 +9,11 @@ span {
   </head>
   <body>
     Hey gav this is <span>daddy</span>
+    <button id="button">Click me</button>
   </body>
   </html>
 
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
 document.body.style.background = 'green'
+
