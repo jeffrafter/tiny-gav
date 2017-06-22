@@ -17,3 +17,6 @@ span {
 
 document.body.style.background = 'green'
 
+document.getElementById("button").onclick = function(event) {
+  document.body.style.background = 'blue'  
+}
