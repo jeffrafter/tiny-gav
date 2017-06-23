@@ -15,7 +15,7 @@ span {
 
 ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ Yᵒᵘ Oᶰˡʸ Lᶤᵛᵉ Oᶰᶜᵉ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 
-document.body.style.background = 'green'
+document.body.style.background = 'purple'
 
 document.getElementById("button").onclick = function(event) {
   document.body.style.background = 'blue'  
